@@ -1,0 +1,45 @@
+STARTING & INSTALLING
+http://railsinstaller.org/ - Sciaganie calego pakietu + filmik instruktazowy
+http://www.ruby-lang.org/en/about/ - Idea rubiego, z jakich pobudek powstal, co oni mowi sam tworca, porownanie do innych jezykow
+
+
+EDITORS (IDE)
+- gvim
+- Redcar - http://redcareditor.com - Open Source. Installation is through Rubygems while Redcar is under development
+- Sublime Text - http://www.sublimetext.com
+- RubyMine - http://www.jetbrains.com/ruby
+- Aptana Studio - http://aptana.com
+- TextMate - http://macromates.com/
+- jEdit - http://www.jedit.org/
+- macvim - http://code.google.com/p/macvim/
+
+DOCUMENTATION
+- http://ruby-doc.org/
+- apidock.com/rails - online Ruby and Rails docs
+- api.rubyonrails.org
+- railsapi.com - local download or online
+
+GIT
+- GitHub - https://github.com/ - Oficjalna strona
+- Git the simple guide - http://rogerdudler.github.com/git-guide/
+- Git SCM - http://git-scm.com/
+- Try Git - http://try.github.com/levels/1/challenges/1
+- wiecej info - http://try.github.com/wrap_up
+- http://git-scm.com/book/
+- https://help.github.com/articles/create-a-repo - Jak wrzucic repo na github
+
+RUBY TUTORIALS
+- rubymonk.com/ - Discover Ruby idioms, learn lessons and solve problems, all in your browser!
+- tryruby.org - Programming Ruby in your browser
+- railsforzombies.org - 5 lekcji video, po ktorych sa challenge - bardzo ciekawe, przydatne i troche bardziej zaawansowane  od poprzednich
+- Ruby bits - http://rubybits2.codeschool.com/levels/1 - styl starej gry komputerowej
+- Why's poignant - http://mislav.uniqpath.com/poignant-guide/book/chapter-6.html - komiksy czarno-biale
+- www.ruby-lang.org/en/documentation/quickstart/ - Ruby in 20 minutes
+- http://rubykoans.com/ - Learn Ruby (v1.8.7) With the Edgecase Ruby Koans Online
+- http://www.codelearn.org/ruby-on-rails-tutorial/1/Learning-Rails-basics/1/Ruby-on-rails-for-beginners
+
+SPO£ECZNOŒCI (gdzie s¹ materia³y)
+- Applicake - http://applicake.com/resources
+- Webmuses - http://webmus.es/materialy
+- Rails Girls - http://railsgirls.com/materials
+- 
