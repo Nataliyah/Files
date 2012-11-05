@@ -20,6 +20,7 @@ DOCUMENTATION
 - railsapi.com - local download or online
 
 GIT
+- http://railsapps.github.com/rails-git.html - najlepsze objaÅ›nienie idei
 - GitHub - https://github.com/ - Oficjalna strona
 - Git the simple guide - http://rogerdudler.github.com/git-guide/
 - Git SCM - http://git-scm.com/
@@ -38,7 +39,7 @@ RUBY TUTORIALS
 - http://rubykoans.com/ - Learn Ruby (v1.8.7) With the Edgecase Ruby Koans Online
 - http://www.codelearn.org/ruby-on-rails-tutorial/1/Learning-Rails-basics/1/Ruby-on-rails-for-beginners
 
-SPO£ECZNOŒCI (gdzie s¹ materia³y)
+SPOï¿½ECZNOï¿½CI (gdzie sï¿½ materiaï¿½y)
 - Applicake - http://applicake.com/resources
 - Webmuses - http://webmus.es/materialy
 - Rails Girls - http://railsgirls.com/materials
