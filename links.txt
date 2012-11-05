@@ -20,7 +20,7 @@ DOCUMENTATION
 - railsapi.com - local download or online
 
 GIT
-- http://railsapps.github.com/rails-git.html - najlepsze objaśnienie idei
+- http://railsapps.github.com/rails-git.html - najlepsze objaśnienie idei + zasugerowany dobry styl!!
 - GitHub - https://github.com/ - Oficjalna strona
 - Git the simple guide - http://rogerdudler.github.com/git-guide/
 - Git SCM - http://git-scm.com/
